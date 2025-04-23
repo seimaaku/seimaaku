@@ -8,7 +8,8 @@ A hobbyist, indie game developer & Godot enthusiast. Currently learning C# & Lua
 - **Platforms?** Android, Windows, Linux, iOS, and macOS.
 - **Release date?** 2025 August-September. May be earlier or later.
 
-**Tech stack:** Godot 4.4 · C# · Lua · Docker · Nakama · Git · Fedora Linux
+**Tech stack:** Godot 4.4 · C# · Lua · Docker · Nakama · Git · Linux (Fedora)
+
 Currently focused on multiplayer logic, core mechanics, and UI/UX polishing.
 
 Game feel addict. Low-spec dev. No time for pay-to-win.
